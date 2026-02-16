@@ -126,7 +126,7 @@ PyMC-Marketing_Project_Book_Worm/
 │   ├── mmm_results.png            # Visualization dashboard
 │   ├── channel_performance.csv    # Detailed metrics
 │   └── executive_summary.txt      # Text report
-└──  exploratory_analysis.ipynb # EDA notebook
+└──  Book_Worm_PYMC.ipynb # EDA notebook
 ```
 
 ## ⚙️ Configuration
