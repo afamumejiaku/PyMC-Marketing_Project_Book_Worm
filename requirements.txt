@@ -1,0 +1,12 @@
+# PyMC-Marketing MMM Dependencies
+# Project Book-Worm
+pymc-marketing
+pandas
+numpy
+openpyxl
+matplotlib
+seaborn
+pymc
+arviz
+tqdm
+scipy
