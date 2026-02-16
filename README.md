@@ -73,7 +73,10 @@ python bookworm_mmm.py
 python -c "from bookworm_mmm import main; main()"
 ```
 
-## 📊 Sample Results
+## 📊 Results
+
+### Grapical View
+![Result](outputs/results.png)
 
 ### ROI Ranking
 
